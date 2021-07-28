@@ -544,7 +544,7 @@ border-radius: 4px;
   color: #ffffff;
   text-align: center;
   
-  padding-bottom: 30px;
+  margin-bottom: 30px;
   
 
   
@@ -582,7 +582,7 @@ border-radius: 4px;
   font-size: 16px;
   line-height: 1.875;
   letter-spacing: 0.03em;
-  
+  color: #757575;
   
 }
 .employee-description {
@@ -592,11 +592,9 @@ border-radius: 4px;
   letter-spacing: 0.03em;
   text-align: center;
 }
-.picture-description {
-  line-height: 1.875;
-  color: #757575;
+
   
-}
+
 .lorem-ipsum {
   font-weight: bold;
   font-size: 14px;
