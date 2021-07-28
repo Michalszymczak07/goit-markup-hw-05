@@ -37,7 +37,7 @@ p {
   justify-content: space-between;
 }
 .images-selection {
-  margin-bottom: 20px;
+  
 }
 img {
   display: block;
@@ -191,8 +191,13 @@ body {
   border-bottom: 1px solid #eeeeee;
   width: 370px;
   height: 110px;
-  margin-top: -20px;
-  margin-bottom: 30px;
+  
+  
+  padding-left: 24px;
+  
+  padding-top: 20px;
+ 
+  
 }
 .project-list-item {
   width: 370px;
@@ -573,19 +578,17 @@ body {
   line-height: 2;
   letter-spacing: 0.06em;
   margin-bottom: 4px;
-  padding-right: 24px;
-  padding-left: 24px;
-  padding-top: 20px;
+  
   white-space: nowrap;
+  
 }
 .picture-description {
   font-weight: normal;
   font-size: 16px;
   line-height: 1.875;
   letter-spacing: 0.03em;
-  padding-bottom: 20px;
-  padding-right: 24px;
-  padding-left: 24px;
+  
+  
 }
 .employee-description {
   font-size: 16px;
@@ -597,7 +600,7 @@ body {
 .picture-description {
   line-height: 1.875;
   color: #757575;
-  margin-bottom: 50px;
+  
 }
 .lorem-ipsum {
   font-weight: bold;
